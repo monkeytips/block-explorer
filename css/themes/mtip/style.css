@@ -31,7 +31,7 @@ body {
     padding-top: 65px;
     padding-bottom: 80px;
     overflow-y: scroll;
-    background-image: url(http://wtippool.worktips.info/pool-background.jpg);
+    background-image: url(img/bg.jpg);
     background-repeat: no-repeat;
     background-position: top center;
 }
